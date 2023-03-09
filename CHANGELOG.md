@@ -14,7 +14,7 @@ Types of changes
 
 - [Fixed] Some minor bugs in the listing of translations fixed.  
 - [Fixed] Contao custom content elements are now handled correctly by Klaro.  
-  [Changed] The contextual consent event and the watcher update event have been improved.   
+- [Changed] The contextual consent event and the watcher update event have been improved.   
 
 ## [1.1.1](https://github.com/pdir/klaro-consent-manager/tree/1.1.1) – 2023-02-20
 
